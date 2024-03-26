@@ -93,14 +93,15 @@ To accomplish this, we would write `(send target save-file "test.png" 'png)`. Th
 ---
 
 - When running this program, racket will let you know if the operation was successful with a boolean value.
+  
+>![image](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-rkomoran/assets/103604250/dd0669ed-4133-4297-a470-f7ea23eaf935)
 
-![alt text](image.png)
 
 You'll notice that Racket gives you little indication on _what just happened_. To actually _see_ where your __PNG__ file is, you would navigate to the directory where you made this program.
 
 - Here's what our picture looks like. It's a little ugly.. but; it's all there!
 
-![alt text](image-1.png)
+>![image-1](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-rkomoran/assets/103604250/3bd6e3ee-a904-45a1-8415-43a6e0e7fa12)
 
 - There's no background, the default colour is white, and there's also a black outline to the shapes.
 
@@ -244,7 +245,7 @@ This takes in a dc object, this object is what we're referring to when we use ou
 ```
 ---
 
-![alt text](image-2.png)
+>![image-2](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-rkomoran/assets/103604250/e636e4bd-d06d-49b9-8812-5864f1d1636f)
 
 Look at that smile, isn't he beautiful?
 
