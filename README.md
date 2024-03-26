@@ -33,7 +33,7 @@ Just include this line after your `#lang racket` at the top of your Racket progr
 
 >![Untitled](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-rkomoran/assets/103604250/29355516-31e8-444f-a0d5-e94888b443c5)
 
-- You can see the artwork replicating this picture in the same directory where this code exists (_2613-Portfolio > Exploratory > Exploratory2_)
+- You can see the artwork replicating this picture in the same directory where this code exists (_2613-Portfolio > Exploratory > Exploratory2_), it'll be named "__froggo.png__"
 
 >![froggo](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-rkomoran/assets/103604250/3c8cefe0-536e-4c2f-8e52-14a1515e05f8)
 
