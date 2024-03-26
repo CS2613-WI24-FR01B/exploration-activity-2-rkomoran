@@ -19,8 +19,8 @@ Just include this line after your `#lang racket` at the top of your Racket progr
 - We're getting close to seeing a masterpiece! Download this repo & open DrRacket, [click here to install DrRacket](https://download.racket-lang.org/).
 - Now, open the contents within _2613-Portfolio > Exploratory > Exploratory2_ using DrRacket's file manager.
 	- Run the program. If successful, you'll see an ominious boolean value in the console. If it's '__#t__', you're good!
-   
-    >![image-3](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-rkomoran/assets/103604250/3dcff9da-eac3-4ad1-ad41-074a114fe65e)
+
+	>![image-3](https://github.com/CS2613-WI24-FR01B/exploration-activity-2-rkomoran/assets/103604250/3dcff9da-eac3-4ad1-ad41-074a114fe65e)
 
 - If it doesn't show up, check the error logs in your terminal -- you may be missing a prerequisite to run the program
 
